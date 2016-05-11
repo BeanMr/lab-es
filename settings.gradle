@@ -1,0 +1,5 @@
+rootProject.name = 'es-lab'
+include 'es-in-action'
+include 'es-interals'
+include 'es-fundamentals'
+
